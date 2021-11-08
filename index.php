@@ -9,7 +9,7 @@
 <body>
     <ul>
         <li>Vagrant</li>
-        <li>Docker</li>
+        <li>Docker: Criando Containers sem dor de cabeça</li>
         <li>Ansible</li>
         <li>Integração Contínua> maturidade e produtividade no Desenvolvimento de Software</li>
     </ul>
