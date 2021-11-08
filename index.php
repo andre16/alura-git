@@ -10,7 +10,7 @@
     <ul>
         <li>Vagrant</li>
         <li>Docker: Criando Containers sem dor de cabeça</li>
-        <li>Ansible</li>
+        <li>Ansible </li>
         <li>Integração Contínua> maturidade e produtividade no Desenvolvimento de Software</li>
         <li>Kubernetes</li>
     </ul>
