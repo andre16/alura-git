@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Renomeando Cursos da Alura</title>
+    <title>Lista de Cursos da DevOps da Alura</title>
 </head>
 <body>
     <ul>
